@@ -1,2 +1,2 @@
 # medicineManager
-learn-sqlserver
+homework
